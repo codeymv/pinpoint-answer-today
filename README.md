@@ -1,12 +1,12 @@
-# Pinpoint Answer Today
+# Pinpoint Answer
 
 > Daily LinkedIn Pinpoint puzzle answers with detailed analysis
 
-[Visit Website](https://pinpointanswer.io) | [Mirror Site](https://pinpointanswer.today)
+[Visit Website](https://pinpointanswer.io)
 
 ## About
 
-**Pinpoint Answer Today** is your complete guide to LinkedIn's daily Pinpoint puzzle. We provide comprehensive answers, detailed analysis, and solving tips for every puzzle.
+**Pinpoint Answer** is your complete guide to LinkedIn's daily Pinpoint puzzle. We provide comprehensive answers, detailed analysis, and solving tips for every puzzle.
 
 LinkedIn Pinpoint is a daily word puzzle where players find the hidden connection between five clues. Our site helps you understand the answer and learn the solving patterns.
 
@@ -18,10 +18,9 @@ LinkedIn Pinpoint is a daily word puzzle where players find the hidden connectio
 - 📚 **Complete Archive** - Browse all previous puzzles
 - 🌐 **Bilingual** - Available in English and Chinese
 
-## Live Sites
+## Live Site
 
-- **Main**: [pinpointanswer.io](https://pinpointanswer.io)
-- **Mirror**: [pinpointanswer.today](https://pinpointanswer.today)
+- **Website**: [pinpointanswer.io](https://pinpointanswer.io)
 
 ## Example Puzzle
 
@@ -94,7 +93,6 @@ Contributions are welcome! Please:
 ## Contact
 
 - Website: https://pinpointanswer.io
-- GitHub: https://github.com/geekymv/pinpoint-answer
 
 ---
 
